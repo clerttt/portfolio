@@ -36,7 +36,7 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: www.linkedin.com/in/clert-judiel-marasigan-682ba1190
+[linkedin]: https://www.linkedin.com/in/clert-judiel-marasigan-682ba1190
 
 
 <!--
